@@ -1,0 +1,10 @@
+baseURL = "https://starter-pistol.github.io/"
+languageCode = "en-us"
+title = "starter-pistol theme site"
+
+theme = "starter-pistol"
+MetaDataFormat = "toml"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
